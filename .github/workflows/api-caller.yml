@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Call GET API
-        run: curl -s https://wordseedingworker.onrender.com/dashboard
+        run: curl -s https://wordseedingworker.onrender.com/status
