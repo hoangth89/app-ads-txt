@@ -1,0 +1,2 @@
+-to expose app-ads-txt
+-do run cron jobs
